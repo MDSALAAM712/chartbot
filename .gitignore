@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+Scripts/
+share/
+pyvenv.cfg
+
+# Local embeddings cache / RAG artifacts
+embeddings_cache.pkl
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
